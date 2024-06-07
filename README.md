@@ -37,7 +37,7 @@ Make sure to include the Jackson library in your project. If you're using Maven,
    ```
 2. Navigate to the project directory:
    ```sh
-   cd hafez-divination
+   cd hafez-divination/src
    ```
 3. Compile and run the application:
     ```sh
